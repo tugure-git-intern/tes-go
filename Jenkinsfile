@@ -6,5 +6,5 @@
 autorePipeline(
     appName: 'tes-go',
     appPort: 8080,
-    deployPort: 8088
+    deployPort: 8089
 )
